@@ -1,0 +1,10 @@
+{
+  "name":"ZXH OFFICIAL COMPANY",
+  "short_name":"ZXH OFFICIAL",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#080807",
+  "theme_color":"#090908",
+  "description":"ZXH OFFICIAL COMPANY — Web, Apps & Digital Solutions.",
+  "icons":[{"src":"/assets/zxh-logo.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+}
