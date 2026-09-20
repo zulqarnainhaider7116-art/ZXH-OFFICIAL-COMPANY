@@ -1,0 +1,943 @@
+🚀 ZXH OFFICIAL COMPANY — FULL IMMERSIVE COMPANY ROOM WEBSITE
+MASTER DESIGN + DEVELOPMENT PROMPT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a complete, production-ready, premium corporate website for:
+
+# ZXH OFFICIAL COMPANY
+Founder: Zulqarnain X Haider
+Brand: ZXH OFFICIAL
+Tagline: Turning Ideas Into Reality.
+Core Areas:
+Web Development • Web Design • UI/UX • PWA • AI Solutions • 3D Web • Digital Solutions
+
+IMPORTANT:
+This is NOT a normal portfolio website.
+This is NOT a generic SaaS landing page.
+This is NOT a cyberpunk/neon website.
+This must feel like the visitor has ENTERED THE ACTUAL ZXH OFFICIAL COMPANY ROOM / HQ.
+
+The entire website experience should be designed around a luxurious modern technology company room / private creative studio / CEO office environment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 CORE VISUAL CONCEPT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The website should visually feel like:
+
+A REAL PREMIUM ZXH OFFICIAL COMPANY ROOM.
+
+Imagine entering a high-end technology company's private office:
+
+• Large glass windows
+• Modern city/tower skyline outside
+• Premium executive desk
+• Large computer monitor
+• Laptop
+• Smartphone
+• Premium desk lamp
+• Coffee/coffee mug
+• Small indoor plants
+• Books/documents
+• Designer chair
+• Wall-mounted giant ZXH OFFICIAL logo
+• Company name on wall
+• Minimal architectural lighting
+• Glass walls
+• Premium wood/black surfaces
+• Concrete/stone architectural elements
+• Subtle reflections
+• Large company screen
+• Digital dashboards
+• Founder/CEO workspace
+• Product/project displays
+• Meeting area
+• Reception/company branding area
+• Shelves with technology objects
+• Clean professional environment
+
+The visitor should feel:
+
+"I am physically inside ZXH OFFICIAL COMPANY."
+
+NOT:
+
+"I am looking at a website with an office picture."
+
+The ROOM is the WEBSITE EXPERIENCE.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎨 DESIGN LANGUAGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Style:
+
+Premium Corporate
+Luxury Technology Company
+Modern Architecture
+Apple-level simplicity
+High-end software studio
+Private CEO office
+Creative agency headquarters
+Professional digital company
+Cinematic but realistic
+
+Use:
+
+• Deep black
+• Graphite
+• Charcoal
+• Dark gray
+• Soft white
+• Warm neutral highlights
+• Natural metallic surfaces
+• Glass
+• Wood
+• Stone
+• Subtle silver
+
+ABSOLUTELY NO:
+
+❌ Neon cyan
+❌ Neon blue
+❌ Neon purple
+❌ Cyberpunk
+❌ Gaming UI
+❌ Cheap gradients
+❌ Overly colorful cards
+❌ Cartoon graphics
+❌ AI-looking generic blobs
+❌ Excessive glowing borders
+❌ Cheap glassmorphism
+❌ Generic template appearance
+
+The design must remain professional even with animations.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏢 WEBSITE ARCHITECTURE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Build the website as an IMMERSIVE COMPANY HQ.
+
+Sections should feel like different areas of the same company environment.
+
+Possible spatial flow:
+
+1. COMPANY ENTRANCE
+2. MAIN COMPANY ROOM
+3. CEO / FOUNDER OFFICE
+4. SERVICES WALL
+5. PROJECT DISPLAY AREA
+6. TECHNOLOGY / SKILLS DESK
+7. SHOWCASE / PRODUCT DISPLAY
+8. CONTACT / RECEPTION AREA
+9. COMPANY FOOTER WALL
+
+Do NOT make every section look like a completely different website.
+
+Everything must belong to the SAME physical environment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚪 1. COMPANY ENTRANCE / HERO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Opening screen should feel like entering ZXH headquarters.
+
+Large architectural room.
+
+Wall contains:
+
+ZXH
+OFFICIAL COMPANY
+
+Under it:
+
+WEB • APPS • DIGITAL SOLUTIONS
+
+Hero text:
+
+"Turning Ideas Into Reality."
+
+Supporting text:
+
+"Building premium digital experiences, modern web applications,
+AI-powered tools, PWAs and innovative digital solutions."
+
+Buttons:
+
+[ EXPLORE COMPANY ]
+[ VIEW PROJECTS ]
+
+Hero should contain:
+
+• Massive ZXH wall logo
+• Executive desk
+• Monitor showing ZXH dashboard
+• Laptop
+• Phone
+• Plant
+• Desk lamp
+• City skyline
+• Architectural windows
+• Company signage
+
+The first viewport should immediately communicate:
+
+THIS IS ZXH OFFICIAL COMPANY.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧑‍💼 2. CEO / FOUNDER ROOM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a premium CEO office area.
+
+Founder:
+
+ZULQARNAIN X HAIDER
+
+Roles:
+
+Founder & Creative Developer
+Web Developer
+Web Designer
+UI/UX Designer
+Full Stack Developer
+
+Place the founder naturally inside the office.
+
+IMPORTANT:
+
+If a founder image is provided, USE THAT EXACT IMAGE.
+
+Do not generate a random replacement person.
+
+Create a realistic presentation:
+
+Founder sitting at the executive desk,
+working on laptop/monitor,
+ZXH branding visible behind him.
+
+The image must feel integrated into the room,
+not pasted into a card.
+
+Add a subtle founder information panel beside the desk.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🖥️ 3. COMPANY WORK DESK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a realistic working environment.
+
+Desk should contain:
+
+• Premium laptop
+• Large monitor
+• Smartphone
+• Keyboard
+• Mouse
+• Desk lamp
+• Coffee
+• Plant
+• Notebook
+• Headphones
+• Small ZXH branded object
+
+Monitor can display:
+
+ZXH OFFICIAL
+PROJECT DASHBOARD
+
+Use realistic UI on the monitor.
+
+Add subtle parallax.
+
+When user moves mouse:
+
+• Camera perspective changes slightly
+• Desk objects move at different depth
+• Background moves slower
+• Foreground objects move slightly faster
+
+Very subtle.
+
+DO NOT overdo 3D movement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧱 4. WALL BRANDING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Large physical wall branding:
+
+ZXH
+OFFICIAL COMPANY
+
+Use premium dimensional lettering.
+
+Material:
+
+Brushed metal / matte black / silver.
+
+No glowing neon logo.
+
+Logo should look physically mounted on the wall.
+
+Add subtle realistic shadow.
+
+Secondary wall text:
+
+WEB DEVELOPMENT
+UI/UX DESIGN
+AI SOLUTIONS
+PWA DEVELOPMENT
+3D WEB
+DIGITAL SOLUTIONS
+
+Typography must look like a real company office wall.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 5. SERVICES AREA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Do NOT use boring generic cards.
+
+Present services as objects/screens inside the company room.
+
+Services:
+
+01 — WEB DEVELOPMENT
+Modern responsive websites and full-stack web applications.
+
+02 — WEB DESIGN
+Premium interfaces focused on usability and visual quality.
+
+03 — UI / UX DESIGN
+Clean, intuitive and conversion-focused digital experiences.
+
+04 — PWA DEVELOPMENT
+Installable, fast and offline-capable web applications.
+
+05 — AI SOLUTIONS
+AI-powered tools, automation and intelligent web experiences.
+
+06 — 3D WEB
+Interactive Three.js and immersive web experiences.
+
+Each service can appear on:
+
+• Glass display
+• Office monitor
+• Wall panel
+• Digital signage
+• Desk display
+
+Keep the physical-room concept consistent.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📂 6. PROJECT SHOWROOM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a PROJECT SHOWROOM.
+
+Instead of ordinary portfolio cards,
+make projects feel like products displayed inside the company.
+
+Section title:
+
+ZXH PROJECT SHOWROOM
+
+Every project should have:
+
+• Project name
+• Category
+• Short description
+• Preview image
+• Open Project button
+• Source Code button
+
+Create premium project display panels.
+
+Allow:
+
+• Search
+• Category filter
+• Smooth filtering
+• Hover interaction
+• Preview animation
+
+Project categories:
+
+Islamic
+AI
+Developer Tools
+Media
+Social
+Utilities
+Creative
+Web Apps
+
+Use the provided real project URLs.
+
+DO NOT invent fake URLs.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧠 7. TECHNOLOGY WALL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a technology wall inside the company.
+
+Display:
+
+HTML
+CSS
+JavaScript
+React
+PWA
+Firebase
+Three.js
+UI/UX
+SEO
+APIs
+Cloud
+AI
+
+Make it look like:
+
+A real company's technology wall / digital board.
+
+Not a typical skill-progress bar.
+
+No fake percentages.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏆 8. COMPANY STATS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a premium company information wall.
+
+Example:
+
+120+
+PROJECTS
+
+45+
+CLIENTS
+
+24/7
+SUPPORT
+
+100%
+DIGITAL FOCUS
+
+Use only real/provided values.
+
+Animate numbers subtly when they enter viewport.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🖼️ 9. COMPANY SHOWCASE ROOM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create another area of the office.
+
+Large screen/wall display showing:
+
+ZXH DIGITAL EXPERIENCE
+
+Include:
+
+• Website mockups
+• Mobile mockups
+• Desktop mockups
+• App interfaces
+• Project previews
+
+Devices should physically sit on desks/shelves.
+
+Use depth and perspective.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📞 10. CONTACT / RECEPTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Create a COMPANY RECEPTION AREA.
+
+Wall:
+
+LET'S BUILD SOMETHING GREAT.
+
+Contact options:
+
+WhatsApp
+Instagram
+TikTok
+Snapchat
+Facebook
+WhatsApp Channel
+
+Use premium physical signage.
+
+CTA:
+
+START A PROJECT
+
+Contact button should open the real provided contact URL.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌐 11. NAVIGATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Navigation should feel like a premium company interface.
+
+Logo:
+
+ZXH OFFICIAL
+
+Menu:
+
+HOME
+ABOUT
+SERVICES
+PROJECTS
+SKILLS
+CONTACT
+
+Desktop:
+
+Minimal floating architectural navigation.
+
+Mobile:
+
+Premium bottom navigation / compact menu.
+
+Navigation should remain readable over the room environment.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🌗 12. LIGHT / DARK MODE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Include Light / Dark mode.
+
+Dark mode:
+
+Black
+Graphite
+Charcoal
+Soft white
+
+Light mode:
+
+Warm white
+Stone
+Soft gray
+Natural wood
+Black typography
+
+DO NOT turn light mode into a colorful theme.
+
+Both themes must still feel like the SAME ZXH COMPANY ROOM.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎥 13. CAMERA / PARALLAX EXPERIENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The website should behave like a camera moving through a room.
+
+Use:
+
+• Scroll-based camera movement
+• Layered parallax
+• Depth
+• Perspective
+• Subtle zoom
+• Mouse movement
+• Object depth
+• Smooth transitions
+
+Example:
+
+Scrolling from HERO to ABOUT feels like moving deeper into the company.
+
+Scrolling to PROJECTS feels like reaching the showroom.
+
+Scrolling to CONTACT feels like reaching reception.
+
+Do NOT make it dizzy or excessive.
+
+Performance is more important than effects.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧊 14. GLASS + MATERIAL SYSTEM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Use REALISTIC materials:
+
+• Glass
+• Brushed metal
+• Matte black
+• Wood
+• Stone
+• Soft fabric
+• Paper
+• Screen glass
+
+Glass UI should be subtle.
+
+No excessive transparent cards.
+
+The physical room should remain visually dominant.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ 15. ANIMATION SYSTEM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Animations should be premium and slow.
+
+Use:
+
+• Fade
+• Slide
+• Scale
+• Depth
+• Camera movement
+• Parallax
+• Hover
+• Soft reveal
+
+Avoid:
+
+❌ Bounce
+❌ Cartoon transitions
+❌ Excessive spinning
+❌ Constant floating
+❌ Flashing
+❌ Neon glow
+
+Everything should feel like a premium corporate product.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📱 16. MOBILE EXPERIENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Mobile must NOT be a compressed desktop website.
+
+Create a dedicated mobile composition.
+
+On mobile:
+
+• Room remains visible
+• Desk becomes closer
+• Founder section remains natural
+• Project showroom becomes horizontal cards
+• Navigation becomes compact
+• Typography scales correctly
+• Images remain sharp
+• Touch interactions work
+• No horizontal overflow
+
+Target:
+
+Android phones
+iPhone
+Tablet
+Desktop
+Large monitors
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ 17. PERFORMANCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Website must be fast.
+
+Use:
+
+• Lazy loading
+• Optimized images
+• Efficient CSS
+• Minimal JavaScript
+• GPU-friendly transforms
+• IntersectionObserver
+• Deferred non-critical scripts
+
+If using Three.js:
+
+Use it only where it actually improves the room experience.
+
+Do NOT build an unnecessarily heavy 3D website.
+
+Provide a graceful fallback for low-end devices.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📲 18. PWA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Make it a complete PWA.
+
+Include:
+
+manifest.webmanifest
+service-worker.js
+offline.html
+icons
+theme-color
+install support
+
+Add a premium ZXH install popup.
+
+Install popup should appear naturally after a few seconds.
+
+Use the ZXH company icon.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔎 19. SEO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Include complete SEO:
+
+Title:
+
+ZXH OFFICIAL COMPANY — Web Development, AI & Digital Solutions
+
+Meta description:
+
+ZXH OFFICIAL COMPANY by Zulqarnain X Haider — premium web development,
+UI/UX design, PWA, AI tools, 3D web experiences and digital solutions.
+
+Include:
+
+Open Graph
+Twitter metadata
+Canonical URL
+Robots
+Sitemap
+Structured data
+Organization schema
+WebSite schema
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔗 20. SOCIAL LINKS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Use the real provided links.
+
+Instagram:
+https://www.instagram.com/stylish.munda875
+
+TikTok:
+https://vm.tiktok.com/ZS9FMYvMQRAES-PVX07/
+
+Snapchat:
+https://www.snapchat.com/add/zxh-official
+
+Facebook:
+https://www.facebook.com/share/1E86tuDM3C/
+
+WhatsApp:
+https://wa.me/message/VP5WENBFNFKCM1
+
+Original WhatsApp Channel:
+https://whatsapp.com/channel/0029Vb6lszR7YSd3iYfa2V0n
+
+Backup Channel:
+https://whatsapp.com/channel/0029Vb8XF2y1NCrQDWetrk1r
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🖼️ 21. ASSET HANDLING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+If images are provided by the user:
+
+USE THEM.
+
+Do not replace the founder photo with an AI-generated person.
+
+Do not replace the ZXH logo with a generic logo.
+
+Temporary assets may be used for:
+
+• Office room
+• Desk
+• Laptop
+• Phone
+• Architecture
+• Plants
+• Interior
+
+But organize the code so they can easily be replaced later.
+
+Use:
+
+/assets/
+
+for all images.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🧩 22. TECH STACK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Preferred:
+
+HTML5
+CSS3
+JavaScript ES6+
+
+Optional:
+
+Three.js
+GSAP
+Lucide Icons
+
+If using React/Vite, ALSO PROVIDE THE PRODUCTION BUILD.
+
+IMPORTANT:
+
+Never give me only source code that cannot run after deployment.
+
+The final project must have a working production build.
+
+If static HTML is used,
+it must work directly after uploading to:
+
+Cloudflare Pages
+Vercel
+Netlify
+GitHub Pages
+
+No blank screen.
+
+No missing JS.
+
+No missing CSS.
+
+No broken asset paths.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛡️ 23. CODE QUALITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Write production-quality code.
+
+Organize:
+
+/assets
+/src
+/components
+/styles
+/data
+
+where appropriate.
+
+No:
+
+• Placeholder lorem ipsum
+• Broken links
+• Fake APIs
+• Fake project URLs
+• Missing buttons
+• Empty sections
+• Console errors
+• Unused massive libraries
+• Duplicate code
+
+Every button must perform a real action.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📐 24. RESPONSIVE DESIGN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Test:
+
+360px
+390px
+412px
+480px
+768px
+1024px
+1280px
+1440px
+1920px+
+
+No:
+
+❌ Horizontal scrolling
+❌ Broken cards
+❌ Cropped founder image
+❌ Overlapping navigation
+❌ Text overflow
+❌ Broken room composition
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 25. FINAL VISUAL REQUIREMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+The final website MUST visually communicate:
+
+"ZXH OFFICIAL COMPANY HAS ITS OWN PREMIUM DIGITAL HEADQUARTERS."
+
+The visitor should feel that they are exploring:
+
+A REAL COMPANY.
+
+A REAL OFFICE.
+
+A REAL CREATIVE STUDIO.
+
+A REAL DIGITAL PRODUCT COMPANY.
+
+Not a template.
+
+Not a portfolio clone.
+
+Not a generic landing page.
+
+Not a neon AI website.
+
+The room itself is the visual identity.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔥 FINAL QUALITY CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Before delivering:
+
+✓ Check every section
+✓ Check every link
+✓ Check every image
+✓ Check mobile
+✓ Check desktop
+✓ Check PWA
+✓ Check service worker
+✓ Check SEO
+✓ Check navigation
+✓ Check animations
+✓ Check accessibility
+✓ Check performance
+✓ Check console errors
+✓ Check deployment
+
+Then provide:
+
+1. COMPLETE PROJECT
+2. ALL SOURCE FILES
+3. ALL ASSETS
+4. PRODUCTION BUILD
+5. PWA
+6. SEO FILES
+7. DEPLOYMENT README
+
+MOST IMPORTANT:
+
+DO NOT CHANGE THE CORE DESIGN INTO A GENERIC PORTFOLIO.
+
+DO NOT USE NEON.
+
+DO NOT MAKE RANDOM UI CARDS THE MAIN VISUAL.
+
+DO NOT JUST PUT AN OFFICE IMAGE AS A BACKGROUND.
+
+BUILD THE ENTIRE WEBSITE AS AN IMMERSIVE
+ZXH OFFICIAL COMPANY ROOM / HQ EXPERIENCE.
+
+🔥☠️😈🚀🎭
+
+ZXH OFFICIAL COMPANY
+"Turning Ideas Into Reality."
+POWERED BY ZULQARNAIN X HAIDER
