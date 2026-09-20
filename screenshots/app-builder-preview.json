@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ZXH Official Company — Web Development, AI & Digital Solutions",
+      "hasCanvas": false,
+      "bodyTextLen": 5069,
+      "bodyTextHash": "42a58c76f557c039ff4add30d85abff8a2ed66a78544b7a0976c83a0422fbbe7",
+      "bodyTextPrefix": "Skip to company entrance ZXH OFFICIAL HOME ABOUT SERVICES PROJEC",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ZXH Official Company — Web Development, AI & Digital Solutions",
+      "hasCanvas": false,
+      "bodyTextLen": 4786,
+      "bodyTextHash": "b5aeb7267b31b79cf8750cd6e01c48e680c4bd65b5c2a5359bc63bf45a5406b7",
+      "bodyTextPrefix": "Skip to company entrance ZXH Home About Work Show Desk ZXH Offic",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
