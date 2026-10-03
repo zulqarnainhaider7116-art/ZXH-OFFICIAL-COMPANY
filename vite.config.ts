@@ -184,6 +184,9 @@ export default defineConfig(({ command, isPreview }) => ({
           nitro({
             preset: "vercel",
             serverDir: "./server",
+            externals: {
+              inline: ["tslib", /^@radix-ui\/.*/]
+            }
           }),
         ]
       : []),
