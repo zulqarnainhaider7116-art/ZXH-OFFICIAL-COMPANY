@@ -157,7 +157,12 @@ export default defineConfig(({ command, isPreview }) => ({
     strictPort: true,
   },
   resolve: { tsconfigPaths: true },
-  
+  ssr: {
+  noExternal: true,
+},
+build: {
+  ssr: true,
+},
   // 👇 YEH NAYA SECTION ADD KIYA HAI - tslib fix ke liye 👇
   ssr: {
     noExternal: [
