@@ -19,7 +19,7 @@ Production:
 npm run build
 npm run preview
 ```
-
+// new deployed
 The app is a standard Vite + TanStack Start project and deploys to Vercel / similar hosts from the production build.
 
 ## Notes
